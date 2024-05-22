@@ -1,1 +1,2 @@
-hello, this file contains the db related logic
+hello, this file contains the db related logic,
+	db function()
