@@ -3,3 +3,5 @@ hello, this file contains the db related logic,
 	we are updating this file in local repository
 
 	updating in stage branch
+	db function()
+	directly branches integrating code in remote repository
